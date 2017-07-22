@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>IOSFlavorsMock.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>IOSFlavorsProd.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>IOSFlavorsTest.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>3C6282941F21C677006946FC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3C6282AD1F21C677006946FC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3C6282B81F21C677006946FC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3C6282CB1F21C9DE006946FC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3C6282DC1F21D261006946FC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
